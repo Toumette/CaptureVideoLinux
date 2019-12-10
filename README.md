@@ -1,2 +1,6 @@
 # CaptureVideoLinux
-Script de capture, sous la forme de vidéo avec son, d'une partie de l'écran sous Linux (script Bash).
+Capture, sous la forme de vidéo avec son, d'une partie de l'écran sous Linux.
+Ligne de commande Bash à lancer dans une console.
+La partie enregistrée de l'écran peut comprendre une zone dans laquelle une vidéo est lue, quelle que soit la source de cette vidéo.
+Le script utilise la commande ffmpeg.
+Il a été testé sous OpenSuse Leap.
