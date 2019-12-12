@@ -1,4 +1,7 @@
 # CaptureVideoLinux
+
+**REDACTION EN COURS**
+
 Capture, sous la forme de vidéo avec son, d'une partie de l'écran sous Linux.
 
 Ligne de commande Bash à lancer dans une console.
