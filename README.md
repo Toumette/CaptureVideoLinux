@@ -11,3 +11,5 @@
 * Utilisation de la commande "ffmpeg".
 
 * Testé sous OpenSuse Leap.
+
+ © Henri 10/12/19
