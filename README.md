@@ -1,6 +1,6 @@
 # CaptureVideoLinux
 
-**REDACTION EN COURS**
+###_REDACTION EN COURS_
 
 ### Capture, sous la forme de vidéo avec son, d'une partie de l'écran sous Linux.
 
@@ -12,4 +12,5 @@
 
 * Testé sous OpenSuse Leap.
 
- © Henri 10/12/19
+---
+_© Henri 10/12/19_
